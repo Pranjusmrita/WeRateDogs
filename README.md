@@ -2,7 +2,7 @@
 
 ### Project Motivation
 
-This project majorly dives into the detailed process involved in Data Wrangling process namely: Data Gathering, Data Assessing and Data Cleaning. The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
+This project majorly dives into the detailed process involved in Data Wrangling process namely: Gathering,Assessing and Cleaning of Data. The dataset that I will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog.
 
 ### Pre-requisites
 
@@ -27,3 +27,4 @@ After gathering each of the above pieces of data, I have assessed them visually 
 I have further cleaned the dataset for each of the identified issues and stored the clean dataframe into a csv file.
 4. Analyzing and Visualizing Data
 The clean dataset has been analyzed and interesting aspects of data have been documented by different visualizations.
+
